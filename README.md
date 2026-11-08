@@ -1,47 +1,41 @@
-# AI-Live-Trend-Sourcing-Engine
-AI Live Trend Sourcing Engine
-# 📈 Factory-OEM Global eCommerce Trend & Sourcing Spy Engine
+# 📈 Factory-OEM AI Live Trend Sourcing Engine
 
-An open-access market intelligence hub designed for Shopify brands, Amazon FBA private labelers, and global merchants to legally leverage Google search velocities and AI sourcing audit matrices.
+An enterprise-grade market intelligence tool for Shopify brands, Amazon FBA sellers, and global merchants to analyze search velocities and AI sourcing audit matrices with **no registration or API keys required**.
 
-👉 **[Launch the Live Trend Spy Engine Here](https://factory-oem.com/Ai/Search/)**
+👉 **[Launch the Live AI Trend Engine Here](https://factory-oem.com/Ai/Search/)**
 
 ---
 
-## 💡 The Core Philosophy: Predictive Trend Sourcing
-Traditional product research software tells you what sold *yesterday*, forcing you into hyper-saturated price wars. This application approaches product sourcing from a predictive vector: mapping exponential growth anomalies on Google search indexes and cross-referencing them against live product specifications before market saturation.
+## 💡 Core Philosophy: Predictive Trend Sourcing
+This application shifts product research from historical sales data to predictive vectors, mapping exponential growth anomalies on search indexes before marketplaces saturate.
 
-## 🔒 100% Privacy & Zero-Install Architecture
-To preserve enterprise data integrity and protect your high-revenue store niches, this tool operates on an **Injected API Key Architecture**. 
-
-We do not funnel your keyword data through third-party servers. Simply input your complimentary Gemini API Key directly from Google AI Studio to run real-time direct-to-gateway auditing—ensuring total code transparency, serverless safety, and absolute data privacy.
+## 🔒 100% Server-Isolated Data Privacy
+Operates on a **Server-Isolated Multi-Tier Framework** without requiring accounts, browser extensions, or private API credentials. Backend encryption secures core tokens and parameters while keeping user queries anonymous.
 
 ---
 
-## 🏭 Instantly Convert Viral Trends to Factory Orders
-Sensing a trend via global traffic indicators is only profitable if you can manufacture the inventory before the wave passes. **Factory-OEM** integrates your trend metrics directly into vertical, high-output production lines:
-* **First-Tier Unit Margins:** Cut out trading brokers and scale straight with verified manufacturing floors.
-* **Agile Custom OEM Prototyping:** Implement brand logos, custom structural toolings, and bespoke retail packaging.
-* **Low MOQ Sourcing Loops:** Test viral keywords with safe, compact initial test batches, ramping up scale dynamically as your active Facebook/TikTok ad campaign benchmarks scale.
+## 🏭 Connect Viral Trends to Factory Orders
+* **First-Tier Unit Margins:** Connect directly with verified manufacturing floors.
+* **Agile Custom OEM Prototyping:** Support for brand logos, custom tooling, and bespoke packaging.
+* **Low MOQ Sourcing Loops:** Test keywords with compact initial batches and scale dynamically.
 
-🌐 **Lock in your competitive moat today:**  
-🔗 **[Visit Factory-OEM.com](https://factory-oem.com/)** | 🐦 **[Follow Sourcing Actions on X @ChinaFactoryOEM](https://x.com)**
+🌐 **Links:**  
+🔗 **[Visit Factory-OEM.com](https://factory-oem.com/)** | 🐦 **[Follow on X @ChinaFactoryOEM](https://x.com)**
 
 ---
 
-## 🛠️ How to Use & Deploy
-1. Launch the tool at **[https://factory-oem.com/Ai/Search/](https://factory-oem.com/Ai/Search/)**.
-2. Input your private Gemini API Key (freely available at Google AI Studio).
-3. Enter your target niche keyword and retail price strategy.
-4. Execute the live AI audit to stream historical search trends and reverse-engineer your maximum allowable factory FOB cost.
+## 🛠️ How to Use
+1. Access the portal at **[https://factory-oem.com/Ai/Search/](https://factory-oem.com/Ai/Search/)**.
+2. Input your target niche keyword and destination geography.
+3. Enter your target retail price strategy.
+4. Click **"Run Live AI Audit"** to view search velocity charts and calculate factory FOB costs.
 
-*Disclaimer: This tool is intended for competitive market research and sourcing planning under official compliance guidelines.*
-
+*Disclaimer: Intended for competitive market research and sourcing planning under official compliance guidelines.*
 
 
 # 🤖 Factory-OEM 全球跨境电商趋势选品与供应链截流引擎
 
-一款专为 Shopify 独立站卖家、亚马逊 FBA 品牌主以及出海跨境品牌打造的免费实时选品与供应链财务反推引擎。
+一款专为 Shopify 独立站卖家、亚马逊 FBA 品牌主以及出海跨境品牌打造的免登录、免 API 密钥的实时选品与供应链财务反推引擎。
 
 👉 **[点击这里直达在线选品工具](https://factory-oem.com/Ai/Search/)**
 
@@ -50,10 +44,10 @@ Sensing a trend via global traffic indicators is only profitable if you can manu
 ## 💡 核心设计理念：前瞻性流量捕获
 传统的选品软件只会告诉你昨天什么产品卖得好，导致成百上千的卖家同时涌入引发惨烈的价格战。本工具采用全新的前瞻性模型：实时调取 Google 的主动搜索动量，并在流量爆发初期、电商平台尚未饱和之前，通过 AI 帮您在供应链端完成防守布局。
 
-## 🔒 100% 隐私保护与零服务器留存机制
-为了保护跨境卖家的选品核心机密与店铺资产，本系统采用了创新的 **“密钥动态注入架构”**。
+## 🔒 100% 隐私安全与无感直连架构
+为了让卖家享受最丝滑的体验，本系统采用了创新的 **“后端安全隔离架构”**。
 
-我们不会通过任何第三方服务器中转或记录您的核心关键词。卖家只需填入自己在 Google AI Studio 免费申请的官方 Gemini 密钥，即可直接由浏览器安全请求数据网关。代码完全透明，彻底杜绝数据被跟卖、被倒卖的风险。
+卖家无需注册账号，无需下载任何浏览器插件，更**不需要自己去申请或输入复杂的 API 密钥**。我们已将所有的 AI 算力与谷歌数据通道在服务器后端完全打通，核心密钥绝对安全，同时 100% 保证用户的选品关键词数据不被任何第三方追踪或跟卖，保障绝对的商业隐私。
 
 ---
 
@@ -68,9 +62,8 @@ Sensing a trend via global traffic indicators is only profitable if you can manu
 
 ---
 
-## 🛠️ 如何使用与部署
-1. 打开官方工具网址：**[https://factory-oem.com/Ai/Search/](https://factory-oem.com/Ai/Search/)**。
-2. 输入您在 Google AI Studio 免费申请的 API 密钥。
-3. 输入您想要测品的家居或任意品类关键词，设定预期海外售价。
-4. 点击“Run Live AI Audit”即可在右侧查看最真实的谷歌趋势图，并在左侧获取 AI 根据 Factory-OEM 损耗模型反推出来的最高出厂允许价。
-
+## 🛠️ 如何使用
+1. 打开官方工具网址：**[https://factory-oem.com/Ai/Search/](https://factory-oem.com/Ai/Search/)**.
+2. 输入您想要测品的家居或任意品类关键词，设定预期海外零售价.
+3. 选择目标国家/地区市场.
+4. 点击“Run Live AI Audit”即可在右侧查看真实的谷歌趋势图，并在左侧瞬间获取 AI 根据 Factory-OEM 损耗模型反推出来的最高出厂允许价（FOB）.
